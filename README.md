@@ -17,7 +17,7 @@ This approach allows for concurrent requests, significantly improving performanc
 - Install the following Python package:
 
   ```bash
-  pip install aiohttp
+  pip install -r requirements.txt
 
 ## How to Run
 1. Clone this repository and navigate to the project directory.
